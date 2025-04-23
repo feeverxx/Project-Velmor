@@ -17,5 +17,6 @@ Bağış Linki: https://donate.bynogame.com/velmorcommunity
 # Web Site Link:
 https://velmor.com.tr/
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/2af98df3-ac95-4a48-a4a8-c0459ddcb26e)
+
 
