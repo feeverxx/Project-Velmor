@@ -1,5 +1,6 @@
 # Project-Velmor
 
+EN: 
 Hello, Velmor community was founded in 2025. Its purpose is to be a community of gamers who create various server projects on multiplayer platforms. 
 Project-Velmor covers the website services side of the Velmor community. In this project, you will witness the journey of a website that was designed and developed from scratch. 
 
