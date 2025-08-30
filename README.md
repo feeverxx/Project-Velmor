@@ -1,4 +1,4 @@
-# Project-Velmor
+# Project-Velmor (Aksıya Alındı)
 
 EN: 
 Hello, Velmor community was founded in 2025. Its purpose is to be a community of gamers who create various server projects on multiplayer platforms. 
